@@ -10,6 +10,7 @@ This project demonstrates how to use an ESP32 to read data from a BME280 sensor 
 - [Usage](#usage)
 - [Code Structure](#code-structure)
 - [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
