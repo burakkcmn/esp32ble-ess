@@ -88,3 +88,7 @@ After completing these steps, your ESP32 should start running the code and you c
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 This README provides a comprehensive overview of your project, including setup instructions, usage details, and code structure. Adjust the content as needed to better fit your specific project requirements.
+
+## Acknowledgments
+
+- This project is based on tutorials by [Random Nerd Tutorials](https://RandomNerdTutorials.com/)
